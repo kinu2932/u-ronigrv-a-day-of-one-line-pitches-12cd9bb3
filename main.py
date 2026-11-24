@@ -7,10 +7,9 @@ Writes a single sentence (<=240 chars) to $MAKEFUN_OUTPUT_DIR/entry.txt
 import os
 
 ENTRY = (
-    "Tell an AI agent your app idea in plain words and it builds the first "
-    "working version for you on make.fun \u2014 no coding, no learning "
-    "curve, and if you don\u2019t like it, just describe it differently "
-    "until you can tap the app you imagined."
+    "Describe your app idea in plain words and an AI agent on make.fun "
+    "builds a first version you can tap today, free and in the open, "
+    "while you just watch."
 )
 
 
